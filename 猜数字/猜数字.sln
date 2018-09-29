@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "猜数字", "猜数字\猜数字.vcxproj", "{5E403C27-0B97-456C-8E96-3D9F68B4A0B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E403C27-0B97-456C-8E96-3D9F68B4A0B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E403C27-0B97-456C-8E96-3D9F68B4A0B5}.Debug|Win32.Build.0 = Debug|Win32
+		{5E403C27-0B97-456C-8E96-3D9F68B4A0B5}.Release|Win32.ActiveCfg = Release|Win32
+		{5E403C27-0B97-456C-8E96-3D9F68B4A0B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
