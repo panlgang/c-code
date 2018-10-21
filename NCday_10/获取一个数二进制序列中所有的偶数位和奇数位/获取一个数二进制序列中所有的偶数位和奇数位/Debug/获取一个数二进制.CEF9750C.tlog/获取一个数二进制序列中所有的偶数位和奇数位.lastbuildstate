@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|E:\C语言代码\比特作业\NCday_10\获取一个数二进制序列中所有的偶数位和奇数位\|
